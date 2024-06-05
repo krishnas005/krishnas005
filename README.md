@@ -8,7 +8,9 @@ I'm a junior Computer Science student at Chandigarh University, driven by a ferv
 
 My experience in team competitions has honed my collaborative abilities and problem-solving skills. Currently, I'm delving into Full Stack Web Development with MERN stack and NextJS, as well as Ethereum Blockchain Development. As an app developer with React Native, I'm eager to explore new domains and actively seeking opportunities to apply and expand my knowledge, making a meaningful impact in the world of technology.
 
-![Image](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)">
+</p>
 
 - 🖥️ See my portfolio at [krishnas05.vercel.app](https://krishnas05.vercel.app/)
 - ✉️ You can contact me at [krishnakannu05@gmail.com](mailto:krishnakannu05@gmail.com)
