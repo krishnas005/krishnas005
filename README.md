@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Krishna 👋</h1>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=krishnas005&color=green" alt="Profile Views">
 <br/>
 
 ## About Me
@@ -19,7 +19,7 @@ My experience in team competitions has honed my collaborative abilities and prob
 - ✉️ You can contact me at [krishnakannu05@gmail.com](mailto:krishnakannu05@gmail.com)
 
 
-  <img src="https://komarev.com/ghpvc/?username=krishnas005&color=green" alt="Profile Views">
+  
 
 <hr/>
 
