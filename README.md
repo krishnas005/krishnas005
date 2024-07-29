@@ -56,6 +56,10 @@ My experience in team competitions has honed my collaborative abilities and prob
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 <br/>
+<br/>
+
+### ✍️ Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Connect with Me
 Feel free to reach out to me through the following platforms:
