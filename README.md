@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Krishna 👋</h1>
 </div>
-<img src="https://komarev.com/ghpvc/?username=krishnas005&color=green" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=krishnas005&color=green" alt="Profile View">
 <br/>
 
 ## About Me
