@@ -42,7 +42,6 @@ My experience in team competitions has honed my collaborative abilities and prob
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Spring_Boot-81B5AF?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
 </div>
 
 ### Tools
